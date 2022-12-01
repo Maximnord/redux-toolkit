@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Maximnord/redux-toolkit.git/static/css/main.f580d612.css",
+    "main.js": "/Maximnord/redux-toolkit.git/static/js/main.0ca30ba2.js",
+    "index.html": "/Maximnord/redux-toolkit.git/index.html",
+    "main.f580d612.css.map": "/Maximnord/redux-toolkit.git/static/css/main.f580d612.css.map",
+    "main.0ca30ba2.js.map": "/Maximnord/redux-toolkit.git/static/js/main.0ca30ba2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f580d612.css",
+    "static/js/main.0ca30ba2.js"
+  ]
+}
